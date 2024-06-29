@@ -35,7 +35,7 @@ export default function GitProjects({ repos, user }) {
 									<p className={css.description}>{description}</p>
 								</span>
 								<span className={css.details}>
-									<p><i className={`devicon-${language.toLowerCase()}-plain colored`} /> {language}</p>
+									<p><i className={`devicon-${language}-plain colored`} /> {language}</p>
 									<p><Icon icon={[ 'fad', 'star' ]} /> {watchers}</p>
 									<p><Icon icon={[ 'fad', 'code-branch' ]} /> {forks_count}</p>
 									<p className={css.pushedAt}>{date}</p>
@@ -53,10 +53,8 @@ export default function GitProjects({ repos, user }) {
 					})
 					}
 				</div>
-				{/*
-				<pre>{ JSON.stringify(user, undefined, 2) }</pre>
-				<pre>{ JSON.stringify(repos, undefined, 2) }</pre>
-				*/}
+			
+				
 			</Container>
 		</Section>
 	)

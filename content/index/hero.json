@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
+		"start": "Bouanani Soufiane = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -11,11 +11,11 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
-		"usp": "I design and build meaningful experiences."
+		"name": "Bouanani Soufiane .",
+		"usp": "Full-stack developer with Java, Spring, and Angular expertise."
 	},
 
-	"paragraph": "I am a digital polymath — a constantly evolving digital creator driven by a passion for lifelong learning and the desire to leave a lasting impact.",
+	"paragraph": " I have a passion for building user-friendly web experiences, leveraging Java (Spring) and PHP (Laravel) for robust backends and modern JavaScript frameworks (Angular, React, Next.js) for interactive front-ends..",
 
 	"buttons": {
 		"primary": {
