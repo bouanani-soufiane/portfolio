@@ -1,6 +1,6 @@
 {
 	"intro": {
-		"start": "Bouanani Soufiane = ( name, passion ) =>",
+		"start": "Soufiane = ( name, passion ) =>",
 		"end": "Hello, my name is",
 		"speed": 60,
 		"deletionSpeed": 80,
@@ -12,20 +12,20 @@
 
 	"header": {
 		"name": "Bouanani Soufiane .",
-		"usp": "Full-stack developer with Java, Spring, and Angular expertise."
+		"usp": "I build strong systems"
 	},
 
-	"paragraph": " I have a passion for building user-friendly web experiences, leveraging Java (Spring) and PHP (Laravel) for robust backends and modern JavaScript frameworks (Angular, React, Next.js) for interactive front-ends..",
+	"paragraph": "I'm a passionate learner, constantly evolving as a full-stack developer. I combine strong backends and user-friendly fronts across tech stacks to build impactful solutions that scale.",
 
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "https://www.linkedin.com/in/soufiane-bouanani/",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://www.linkedin.com/in/soufiane-bouanani/",
 			"leaveSite": "true"
 		}
 	}

@@ -54,9 +54,9 @@ export default function Hero() {
 					<h1 className={hero.header}>
 						{content.header.name}
 						</h1>
-					<h1 className={`${hero.header} ${hero.primaryDim}`}>
+					<h3 className={`${hero.header} ${hero.primaryDim}`}>
 						{content.header.usp}
-					</h1>
+					</h3>
 				</section>
 				<section>
 					<p className={`${hero.primaryBright} subtitle ${space(["verticalLrg"])}`}>
@@ -65,11 +65,11 @@ export default function Hero() {
 				</section>
 				<section>
 					<button	className={`button ${button.primary}`}
-							onClick={ () => window.location = 'mailto:hello@andrewnelson.net' } >
+							onClick={ () => window.location = 'mailto:bouananisfn@gmail.com' } >
 						{content.buttons.primary.title}
 					</button>
 					<button className={`button ${button.secondary} leaveSite`}
-							onClick={ ()=> window.open("https://www.linkedin.com/in/--andrewnelson/", "_blank") } >
+							onClick={ ()=> window.open("https://www.linkedin.com/in/soufiane-bouanani/", "_blank") } >
 						{content.buttons.secondary.title}
 					</button>
 				</section>

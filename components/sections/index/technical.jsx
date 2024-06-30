@@ -73,28 +73,36 @@ export default function Technical() {
 }
 
 const software = [
-	{ key: 'vscode', 		name: 'VSCode', 			type: 'devicon' },
-	{ key: 'mailbox', 		name: 'Postman', 			type: 'fas' },
-	{ key: 'computer-mouse',name: 'Click Up', 			type: 'fas' },
-	{ key: 'list-music',	name: 'Ableton', 			type: 'fas' },
-	{ key: 'aftereffects',	name: 'After Effects', 		type: 'devicon' },
-	{ key: 'premierepro',	name: 'Premiere Pro', 		type: 'devicon' },
-]
+    { key: 'vscode',        name: 'VSCode',             type: 'devicon' },
+    { key: 'intellij',     name: 'IntelliJ IDEA',       type: 'devicon' },
+    { key: 'mailbox',       name: 'Postman',            type: 'fas' },
+    { key: 'vim',            name: 'Vim',                 type: 'fas' }, 
+    { key: 'docker',        name: 'Docker',             type: 'devicon' },
+    { key: 'git',           name: 'Git',                type: 'devicon' },
+    { key: 'maven',         name: 'Maven',              type: 'devicon' },
+    { key: 'junit',         name: 'JUnit',              type: 'fas' }, 
+    { key: 'tomcat',        name: 'Tomcat',             type: 'devicon' }, 
+	{ key: 'jira',        name: 'jira',             type: 'devicon' }, 
+    { key: 'kubernetes',   name: 'Kubernetes',        type: 'devicon' }, 
+	{ key: 'jenkins',       name: 'Jenkins',              type: 'fab' }, 
+
+];
 
 const tech	= [
-	{ key: 'javascript', 	name: 'JavaScript', 		type: 'devicon' },
-	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
-	{ key: 'react', 		name: 'React', 				type: 'devicon' },
+	{ key: 'java',          name: 'Java',               type: 'devicon' },  
+    { key: 'typescript',   name: 'TypeScript',        type: 'devicon' },  
+    { key: 'spring',           name: 'spring',            type: 'devicon' }, 
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
+	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
+    { key: 'laravel',       name: 'Laravel',            type: 'devicon' },  
+    { key: 'postgresql',   name: 'PostgreSQL',         type: 'devicon' },  
+	{ key: 'react', 		name: 'React', 				type: 'devicon' },
+	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'jquery', 		name: 'jQuery', 			type: 'devicon' },
 	{ key: 'php', 			name: 'PHP', 				type: 'devicon' },
-	{ key: 'wordpress', 	name: 'WordPress', 			type: 'devicon' },
-	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
-	{ key: "google",		name: "GA4/GTM", 			type: "devicon" },
+	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
 	{ key: 'css3', 			name: 'CSS3', 				type: 'devicon' },
 	{ key: 'sass', 			name: 'SASS', 				type: 'devicon' },
-	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
-	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
-	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
-]
+	{ key: 'javascript', 	name: 'JavaScript', 		type: 'devicon' },
+];

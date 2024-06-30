@@ -30,11 +30,11 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Bouanani"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development (Java and Angular), operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="Full-stack developer in training, focusing on backends. I design strong, scalable systems and optimize data flow with a passion for server-side innovation. Learning constantly at YouCode, I gain practical experience through hands-on projects."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/me.jpg" alt="Nelson family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
@@ -61,13 +61,17 @@ export default function About() {
 			</Container>
 		</Section>
 	)
-}
-
-const methods 	= [
-	{ key: 'planet-moon', 		name: 'User Research', 		type: 'fad' },
-	{ key: 'qrcode', 			name: 'Digital Strategy', 	type: 'fad' },
-	{ key: 'window', 			name: 'Design Systems', 	type: 'fad' },
-	{ key: 'cubes', 			name: 'Product Strategy', 	type: 'far' },
-	{ key: 'layer-plus', 		name: 'Brand Strategy', 	type: 'fad' },
-	{ key: 'solar-system', 		name: 'Operations', 		type: 'fad' },
+	}
+	
+	const methods 	= [
+		{ key: "server", name: "Server Architecture", type: "fas" },
+		{ key: "code", name: "API Development", type: "fas" },
+		{ key: "database", name: "Database Design", type: "fas" },
+		{ key: "code-branch", name: "Version Control", type: "fas" },
+		{ key: "shield-alt", name: "Security Implementation", type: "fas" },
+		{ key: "cubes", name: "Scalable Solutions", type: "fas" },
+		{ key: "sync", name: "Agile Methodologies", type: "fas" },
+		{ key: "tachometer-alt", name: "Performance Optimization", type: "fas" },
+		{ key: "microchip", name: "Microservices", type: "fas" },
+		{ key: "project-diagram", name: "System Design", type: "fas" },
 ]
