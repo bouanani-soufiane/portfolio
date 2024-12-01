@@ -1,5 +1,63 @@
 [
 	{
+		"project": "Citronix",
+		"url": "https://github.com/bouanani-soufiane/Citronix",
+		"repo": "Public",
+		"descriptionTitle": "Citrus Harvest Management Application",
+		"description": "Citronix is a citrus farm management application designed to streamline operations for farmers by managing farms, fields, trees, harvests, and sales.",
+		"imageOptions": [],
+		"images": [
+		  { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+		  { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+		  { "key": "mock-stack", "hover": "left", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+		  { "key": "spring", "name": "spring", "type": "devicon" },
+		  { "key": "Java", "name": "Java", "type": "devicon" },
+		  { "key": "postgresql", "name": "postgresql", "type": "devicon" },
+		  { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+		  { "key": "docker", "name": "Docker", "type": "devicon" },
+		  { "key": "mockito", "name": "mockito", "type": "devicon" },
+		  { "key": "DDD", "name": "DDD", "type": "devicon" },
+		  { "key": "postman", "name": "postman", "type": "devicon" },
+		  { "key": "digitalOcean", "name": "digitalOcean", "type": "devicon" },
+		  { "key": "swagger", "name": "swagger", "type": "devicon" },
+		  { "key": "junit", "name": "junit", "type": "devicon" }
+
+		]
+	  },
+
+	
+	{
+		"project": "PigeonSkyRace",
+		"url": "https://github.com/bouanani-soufiane/PigeonSkyRace",
+		"repo": "Public",
+		"descriptionTitle": "The Pigeon Racing Management System",
+		"description": "The Pigeon Racing Management System streamlines the management of pigeons, lofts, and competitions for loft owners and administrators.",
+		"imageOptions": [],
+		"images": [
+		  { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
+		  { "key": "mock-stack", "hover": "right", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
+		  { "key": "mock-stack", "hover": "left", "h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+		],
+		"stack": [
+		  { "key": "spring", "name": "spring", "type": "devicon" },
+		  { "key": "Java", "name": "Java", "type": "devicon" },
+		  { "key": "mongodb", "name": "mongodb", "type": "devicon" },
+		  { "key": "git", "name": "Git(Hub)", "type": "devicon" },
+		  { "key": "docker", "name": "Docker", "type": "devicon" },
+		  { "key": "mockito", "name": "mockito", "type": "devicon" },
+		  { "key": "DDD", "name": "DDD", "type": "devicon" },
+		  { "key": "postman", "name": "postman", "type": "devicon" },
+		  { "key": "digitalOcean", "name": "digitalOcean", "type": "devicon" },
+		  { "key": "swagger", "name": "swagger", "type": "devicon" },
+		  { "key": "junit", "name": "junit", "type": "devicon" }
+
+		]
+	  },
+	
+	
+	{
 		"project": "evento",
 		"url": "https://github.com/bouanani-soufiane/evento/",
 		"repo": "Public",
